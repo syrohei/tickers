@@ -2,7 +2,7 @@
   "name": "tickers",
   "private": true,
   "fluct": {
-    "contentType": "text/html",
+    "contentType": "application/json",
     "httpMethod": "GET",
     "path": "/tickers",
     "statusCode": 200
