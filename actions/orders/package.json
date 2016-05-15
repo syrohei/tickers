@@ -1,0 +1,10 @@
+{
+  "name": "orders",
+  "private": true,
+  "fluct": {
+    "contentType": "text/html",
+    "httpMethod": "GET",
+    "path": "/orders",
+    "statusCode": 200
+  }
+}

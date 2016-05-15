@@ -1,0 +1,11 @@
+{
+  "name": ".",
+  "private": true,
+  "fluct": {
+    "accountId": "693245441744",
+    "restapiId": null,
+    "roleName": "AWSLambdaBasicExecutionRole",
+    "region": "us-west-2",
+    "restApiId": "lg8r6har2l"
+  }
+}
