@@ -13,6 +13,5 @@ var Order = new Schema({
 });
 
 Order.plugin(timestamps);
-
 module.exports =  db.model('Order', Order)
 
